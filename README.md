@@ -9,11 +9,11 @@
 <p align="left">
 💜 Sobre mim
 	
-Sou estudante de Engenharia de Software e técnica em Informática, com interesse em desenvolvimento de software e desenvolvimento web.
+Sou estudante de Engenharia de Software e técnica em Informática, com interesse em Análise de Dados e desenvolvimento de software. Tenho conhecimentos em HTML, CSS, JavaScript e Python, e atualmente estou aprofundando meus conhecimentos em SQL e análise de dados.
 
-Tenho conhecimentos em HTML, CSS e Python e atualmente estou estudando JavaScript e MySQL, buscando ampliar meus conhecimentos e desenvolver projetos cada vez mais completos.
+Também possuo conhecimentos em desenvolvimento web, o que me perite compreender sistemas e transformar necessidades em soluções digitais.
 
-🚀 Meu objetivo é crescer profissionalmente na área de tecnologia, adquirir experiência e transformar meus conhecimentos em soluções práticas.
+🚀 Meu objetivo é atuar na área de Dados, desenvolvendo análises e soluções que transformem informações em insights relevantes para apoiar decisões e gerar resultados.
 </p>
 <br>
 <p alinhar="centro">
