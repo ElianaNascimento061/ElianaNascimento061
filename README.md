@@ -65,7 +65,7 @@ IFMA • Concluído
 🔗 Onde me encontrar
 ---
 <div>
-<a href="https://github.com/elianasilvanascimentoweb061">
+<a href="https://github.com/ElianaNascimento061">
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A855F7" />
 </a>
 	
